@@ -1,0 +1,38 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BODY */
+body {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  background-color: #FAFAF7;
+  color: #1A3C2E;
+}
+
+/* ROOT CONTAINER */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* IMAGES */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* BUTTON */
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+}
+
+/* INPUT */
+input, select {
+  font-family: inherit;
+  outline: none;
+}
