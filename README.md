@@ -4,24 +4,6 @@ A React-based web application that enables users to discover, filter, and regist
 
 ---
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Live Overview](#live-overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Component Breakdown](#component-breakdown)
-- [Utility Functions](#utility-functions)
-- [Data Flow](#data-flow)
-- [State Management](#state-management)
-- [API Integration](#api-integration)
-- [How to Run](#how-to-run)
-- [Where It Can Be Used](#where-it-can-be-used)
-- [Future Improvements](#future-improvements)
-
----
-
 ## About the Project
 
 NGO Event Explorer is a front-end web application built as part of a Social Impact Platform. It allows volunteers, donors, and community members to browse NGO-hosted events across India — such as blood donation camps, tree plantation drives, digital literacy workshops, and more — and register for the ones they wish to attend.
